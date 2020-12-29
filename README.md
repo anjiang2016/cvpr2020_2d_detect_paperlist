@@ -10,7 +10,7 @@ cvpr2020 2d detect paperless
 
 2. Rethinking Classification and Localization for Object Detection(关于目标检测中的分类和定位的一些思路) 来自东北大学，微软
 代码： https://github.com/wuyuebupt/doubleheadsrcnn
-
+    2020年12月28日，完成论文的解读与视频的制作
 3. Multiple Anchor Learning for Visual Object Detection(视觉目标检测中的多锚点学习),来自西安交通大学，卡内基梅隆大学，国防科技大学，中国科学院深圳先进技术研究院
 代码：https://github.com/KevinKecc/MAL
 
@@ -19,7 +19,7 @@ cvpr2020 2d detect paperless
 代码：https://github.com/KiveeDong/CentripetalNet
 
 5. Learning From Noisy Anchors for One-Stage Object Detection(用噪声锚点框进行学习的一阶段目标检测系统)马里兰大学；Salesforce研究院 
-
+     2020年12月29日，完成论文的解读与视频的制作
 6. Instance-Aware,Context-Focused,and Memory-Efficient Weakly Supervised Ojbect Detection(弱导师目标检测：实例化，基于纹理，高效内存) 来自：伊利诺伊大学；加州大学；英伟达；
 代码： https://github.com/NVlabs/wetectron
 
