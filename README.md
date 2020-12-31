@@ -7,7 +7,7 @@ cvpr2020 2d detect paperless
 [下载CVPR2020所有论文](http://mp.weixin.qq.com/s?__biz=MzUzODkxNzQzMw%3D%3D&chksm=fad12bd8cda6a2cef442e2ede03b004d5d94e994f73ead44b56d6b1b410fcebba047ec16b79b&idx=2&mid=2247484558&scene=21&sn=c755154f31887b8fa636be91ba99a685#wechat_redirect)
 明明老师主要讲解2D目标检测方面的知识
 1. Large-Scale Object Detection in the Wild From Imbalanced Multi-Lables(不平衡样本情况大，大尺度目标检测) 国防科技大学；商汤。
-
+  - 2020年12月31日，完成论文解读与视频制作
 2. Rethinking Classification and Localization for Object Detection(关于目标检测中的分类和定位的一些思路) 来自东北大学，微软
 代码： https://github.com/wuyuebupt/doubleheadsrcnn
  - 2020年12月28日，完成论文的解读与视频的制作
