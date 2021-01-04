@@ -13,10 +13,13 @@ cvpr2020 2d detect paperless
  - 2020年12月28日，完成论文的解读与视频的制作
 3. Multiple Anchor Learning for Visual Object Detection(视觉目标检测中的多锚点学习),来自西安交通大学，卡内基梅隆大学，国防科技大学，中国科学院深圳先进技术研究院
 代码：https://github.com/KevinKecc/MAL
-
+ - 2020年12月27日，完成论文的解读与视频的制作
+ 
 4. CentripletalNet:pursuing High-Quality Keypoint Pairs for Object Detection(向心网：高质量关键点对进行目标检测)
 来自 西安交通大学；商汤科技；国防科技大学，北京航空航天大学
 代码：https://github.com/KiveeDong/CentripetalNet
+
+ - 计划2021年1月4日解读
 
 5. Learning From Noisy Anchors for One-Stage Object Detection(用噪声锚点框进行学习的一阶段目标检测系统)马里兰大学；Salesforce研究院 
  - 2020年12月29日，完成论文的解读与视频的制作
