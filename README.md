@@ -31,7 +31,7 @@ cvpr2020 2d detect paperless
 单位：谷歌
 代码：https://github.com/google/automl/tree/master/efficientdet
 
-- 计划于2020年1月5日完成论文解读
+- 于2020年1月5日完成论文解读,以及视频的制作，已发送到b站和抖音上。
 
 8. Overcoming classifier Imbalance for Long-Tail Object Detection With Balanced Group Softmax(累不平衡下的长尾目标检测：平衡分组指数归一化。)
 单位：中科院；国防科技大学；新加坡国立大学
