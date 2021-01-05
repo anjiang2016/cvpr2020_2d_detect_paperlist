@@ -19,16 +19,19 @@ cvpr2020 2d detect paperless
 来自 西安交通大学；商汤科技；国防科技大学，北京航空航天大学
 代码：https://github.com/KiveeDong/CentripetalNet
 
- - 计划2021年1月4日解读
+ - 2021年1月4日解读，完成论文的解读与视频制作
 
 5. Learning From Noisy Anchors for One-Stage Object Detection(用噪声锚点框进行学习的一阶段目标检测系统)马里兰大学；Salesforce研究院 
  - 2020年12月29日，完成论文的解读与视频的制作
+ 
 6. Instance-Aware,Context-Focused,and Memory-Efficient Weakly Supervised Ojbect Detection(弱导师目标检测：实例化，基于纹理，高效内存) 来自：伊利诺伊大学；加州大学；英伟达；
 代码： https://github.com/NVlabs/wetectron
 
 7. EfficientDet:Scalable and Efficient Object Detection(高效检测模型：尺度和快速的目标检测)
 单位：谷歌
 代码：https://github.com/google/automl/tree/master/efficientdet
+
+- 计划于2020年1月5日完成论文解读
 
 8. Overcoming classifier Imbalance for Long-Tail Object Detection With Balanced Group Softmax(累不平衡下的长尾目标检测：平衡分组指数归一化。)
 单位：中科院；国防科技大学；新加坡国立大学
