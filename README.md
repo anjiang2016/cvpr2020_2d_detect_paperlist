@@ -52,6 +52,9 @@ cvpr2020 2d detect paperless
 12. DR Loss:Improving Object Detection by Distributional Ranking(分配排名损失函数来改进目标检测)
 来自：阿里巴巴
 
+- [计划中]于2020年1月5日完成论文解读,以及视频的制作，已发送到b站和抖音上。
+
+
 13. AugFPN:Improving Multi-Scale Feature Learning for Object Detection(改进多尺度特征学习的目标检测)
 来自：中科院；国科大；地平线机器人；北京科技大学
 代码：https://github.com/Gus-Guo/AugFRN
