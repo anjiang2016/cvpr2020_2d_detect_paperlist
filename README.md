@@ -52,7 +52,7 @@ cvpr2020 2d detect paperless
 12. DR Loss:Improving Object Detection by Distributional Ranking(分配排名损失函数来改进目标检测)
 来自：阿里巴巴
 
-- 于2020年1月5日完成论文解读,以及视频的制作，已发送到b站、抖音、微信上。
+- 于2020年1月6日完成论文解读,以及视频的制作，已发送到b站、抖音、微信上。
 
 13. AugFPN:Improving Multi-Scale Feature Learning for Object Detection(改进多尺度特征学习的目标检测)
 来自：中科院；国科大；地平线机器人；北京科技大学
@@ -72,7 +72,7 @@ cvpr2020 2d detect paperless
 17. Context R-CNN:Long Term Temporal Context for Per-Camera Object Detection(长时间序列的上下文做每个摄像头的目标检测）
 来自：加州理工学院；谷歌
 
-18. Offset Bin Classification Network for Accurate Object Detection(偏移分类网络分类告诉目标检测）
+18. Offset Bin Classification Network for Accurate Object Detection(偏移分类网络分类高速目标检测）
 来自：电子科技大学
 
 19. Scale-Equalizing Pyramid Convolution for Object Detection(尺度量化金字塔卷积）
@@ -99,10 +99,14 @@ cvpr2020 2d detect paperless
 来自：旷世科技
 代码：https://github.com/Megvii-Nanjing/CR-DA-DET
 
+- [计划]于2020年1月7日完成论文解读,以及视频的制作，已发送到b站、抖音、微信上。
+
+
 25. MnasFPN:Learning Latency-Aware pyramid Architecture for Object Detection on Mobile Devices(在移动设备上的基于金字塔结构的目标检测方法）
 来自谷歌
 代码： https://github.com/tensorflow/models/tree/
 master/research/object_detection
+
 
 26. SP-NAS:Serial-to-Parallel Backbone Search for Object Detection(串行到并行的骨干网络搜索）
 来自：华为诺亚方舟实验室；中山大学
