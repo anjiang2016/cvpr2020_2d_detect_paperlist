@@ -36,6 +36,8 @@ cvpr2020 2d detect paperless
 8. Overcoming classifier Imbalance for Long-Tail Object Detection With Balanced Group Softmax(累不平衡下的长尾目标检测：平衡分组指数归一化。)
 单位：中科院；国防科技大学；新加坡国立大学
 代码：https://github.com/FishYuLi/BalancedGroupSoftmax
+- 于2020年1月10日完成论文解读,以及视频的制作，
+- [计划]2021年1月12日发布到b站和头条上。
 
 9. Dynamic Refinement Network for Oriented and Densely packed Object Detection(使用动态增强学习的多方向密集目标检测)
 单位：中国科学院自动化研究所；腾讯优图；快手科技
