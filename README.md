@@ -46,6 +46,7 @@ cvpr2020 2d detect paperless
 10. Noise-Aware Fully Webly Supervised Object Detection(这个我也不知道该怎么翻译：带噪声的网络公开数据的有导师目标检测)
 单位：厦门大学；西安交通大学；南方科技大学；华为诺亚方舟实验室；郑州实验室；
 代码： https://github.com/shenyunhang/NA-fWebSOD
+[已与2021年1月13日完成解读，并发布视频到b站，抖音和知乎上]
 
 11. Prime Sample Attention in Object Detection(利用Prime sample 注意力机制进行目标检测)
 来自：香港中文大学；南洋理工大学
