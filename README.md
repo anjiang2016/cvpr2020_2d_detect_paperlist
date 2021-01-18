@@ -51,7 +51,7 @@ cvpr2020 2d detect paperless
 11. Prime Sample Attention in Object Detection(利用Prime sample 注意力机制进行目标检测)
 来自：香港中文大学；南洋理工大学
 代码：https://github.com/open-mmlab/mmdetection
-
+[20200115] 完成论文的解读与视频制作
 12. DR Loss:Improving Object Detection by Distributional Ranking(分配排名损失函数来改进目标检测)
 来自：阿里巴巴
 
@@ -60,7 +60,7 @@ cvpr2020 2d detect paperless
 13. AugFPN:Improving Multi-Scale Feature Learning for Object Detection(改进多尺度特征学习的目标检测)
 来自：中科院；国科大；地平线机器人；北京科技大学
 代码：https://github.com/Gus-Guo/AugFRN
-
+[20210118] 完成论文的解读与视频制作
 14. Robust Object Detection Under Occlusion With Context-Aware CompusitionalNets(遮挡状态下的考虑纹理的鲁棒性目标检测：组件式网络）
 来自：约翰斯霍普金斯
 
