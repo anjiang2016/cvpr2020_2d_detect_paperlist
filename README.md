@@ -63,7 +63,7 @@ cvpr2020 2d detect paperless
 [20210118] 完成论文的解读与视频制作
 14. Robust Object Detection Under Occlusion With Context-Aware CompusitionalNets(遮挡状态下的考虑纹理的鲁棒性目标检测：组件式网络）
 来自：约翰斯霍普金斯
-
+-[2020012] 吐血更新完。已完成论文的解读与视频的制作
 15. Exploring Bottom-Up and Top-Down Cues With Attentive Learning for Webly Supervised Object Detection(探讨自上而下的专心学习做目标检测)
 来自：南洋理工大学；英伟达；蒙纳士大学
 感觉这篇文章不太好翻译
