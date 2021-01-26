@@ -42,11 +42,11 @@ cvpr2020 2d detect paperless
 9. Dynamic Refinement Network for Oriented and Densely packed Object Detection(使用动态增强学习的多方向密集目标检测)
 单位：中国科学院自动化研究所；腾讯优图；快手科技
 代码：https://github.com/Anymake/DRN_CVPR2020
-
+- [待解读]
 10. Noise-Aware Fully Webly Supervised Object Detection(这个我也不知道该怎么翻译：带噪声的网络公开数据的有导师目标检测)
 单位：厦门大学；西安交通大学；南方科技大学；华为诺亚方舟实验室；郑州实验室；
 代码： https://github.com/shenyunhang/NA-fWebSOD
-[已与2021年1月13日完成解读，并发布视频到b站，抖音和知乎上]
+- [已与2021年1月13日完成解读，并发布视频到b站，抖音和知乎上]
 
 11. Prime Sample Attention in Object Detection(利用Prime sample 注意力机制进行目标检测)
 来自：香港中文大学；南洋理工大学
@@ -60,10 +60,10 @@ cvpr2020 2d detect paperless
 13. AugFPN:Improving Multi-Scale Feature Learning for Object Detection(改进多尺度特征学习的目标检测)
 来自：中科院；国科大；地平线机器人；北京科技大学
 代码：https://github.com/Gus-Guo/AugFRN
-[20210118] 完成论文的解读与视频制作
+- [20210118] 完成论文的解读与视频制作
 14. Robust Object Detection Under Occlusion With Context-Aware CompusitionalNets(遮挡状态下的考虑纹理的鲁棒性目标检测：组件式网络）
 来自：约翰斯霍普金斯
--[2020012] 吐血更新完。已完成论文的解读与视频的制作
+- [2020012] 吐血更新完。已完成论文的解读与视频的制作
 15. Exploring Bottom-Up and Top-Down Cues With Attentive Learning for Webly Supervised Object Detection(探讨自上而下的专心学习做目标检测)
 来自：南洋理工大学；英伟达；蒙纳士大学
 感觉这篇文章不太好翻译
