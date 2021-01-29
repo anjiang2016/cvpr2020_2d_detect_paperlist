@@ -81,7 +81,7 @@ cvpr2020 2d detect paperless
 19. Scale-Equalizing Pyramid Convolution for Object Detection(尺度量化金字塔卷积）
 来自：商汤科技
 代码： https://github.com/jshilong/SEPC
-- [20210129-完成解读，并已制作好视频]
+- [20210129-完成解读，并已制作好视频,已经传到b站上]
 20. Learning a Unified Sample Weighting Network for Object Detection
 来自：中国科学技术大学；京东
 代码：https://github.com/caiqi/sample-weighting-network
