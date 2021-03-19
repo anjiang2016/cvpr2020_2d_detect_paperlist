@@ -86,9 +86,12 @@ cvpr2020 2d detect paperless
 来自：中国科学技术大学；京东
 代码：https://github.com/caiqi/sample-weighting-network
 
+ - 2021年3月18日解读，完成论文的解读与视频制作
+
 21. Seeing without Looking:Contextual Rescoring of Object Detections for AP Maximization
 来自：卡内基梅隆大学
 代码：https://github.com/LourencoVazPato/seeing-without-looking/
+ - 2021年3月19日解读，完成论文的解读与视频制作
 
 22. Bridging the Gap Between Anchor-Based and Anchor Free Detection via Adaptive Training Sample Selection
 来自：中科院；国科大；北京邮电；西湖大学
